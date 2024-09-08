@@ -1,4 +1,6 @@
 <p align="center"><a href="https://safetymadeeasyindia.com/" target="_blank"><img src="public\assets\images\logo\logo-5.webp" width="400" alt="Logo"></a></p>
+<br><br><br>
+<p align="center"><a href="https://safetymadeeasyindia.com/" target="_blank"><img src="public\assets\screenshots\Screenshot 2024-09-08 121509.png" width="800" alt="UI"></a></p>
 
 
 </p>
