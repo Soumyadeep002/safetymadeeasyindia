@@ -1,0 +1,55 @@
+.user-dashboard .dashboard-avatar {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #578f1e;
+}
+
+.user-dashboard .stat-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 16px;
+    background: #f0f7e8;
+    color: #578f1e;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+.user-dashboard .dashboard-tabs .nav-link {
+    color: #444;
+    font-weight: 600;
+    border: none;
+    border-bottom: 3px solid transparent;
+    padding: 12px 20px;
+}
+
+.user-dashboard .dashboard-tabs .nav-link.active {
+    color: #578f1e;
+    background: transparent;
+    border-bottom-color: #578f1e;
+}
+
+.user-dashboard .dashboard-card {
+    background: #fff;
+    border-radius: 12px;
+    padding: 24px;
+    box-shadow: 0 4px 24px rgba(0, 0, 0, 0.06);
+    border: 1px solid #eee;
+}
+
+.user-dashboard .dashboard-table th {
+    background: #f8f9fa;
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+.user-dashboard .dashboard-actions {
+    white-space: nowrap;
+}
+
+.user-dashboard .dashboard-actions .rts-btn {
+    margin-right: 4px;
+}

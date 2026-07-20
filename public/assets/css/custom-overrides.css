@@ -1,0 +1,6 @@
+/* Fix theme bootstrap breadcrumb showing URL as divider */
+.breadcrumb-item + .breadcrumb-item::before {
+    content: "/" !important;
+    color: #6c757d;
+    float: none;
+}
