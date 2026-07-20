@@ -19,7 +19,7 @@ Safety Made Easy India is an online platform dedicated to providing comprehensiv
 
 - **Backend:** Laravel
 - **Frontend:** HTML, CSS, JavaScript
-- **Database:** SQL
+- **Database:** MySQL
 - **Hosting:** Deployed on a reliable server setup optimized for speed and security.
 
 
